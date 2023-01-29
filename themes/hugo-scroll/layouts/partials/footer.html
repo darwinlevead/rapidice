@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="inner">
+    {{ with .Site.Params.copyright }}
+      <section class="copyright">{{ . | markdownify }}</section>{{ end }}
+
+
+    <section>{{ echoParam .Site.Params "hidebyline" }}</section>
+    {{ if ne .Site.Params.hidedesignbyline true }}
+      <section>
+        <a href="https://github.com/darwinlevead">Diseñado</a> con ♥️ by
+        <a href="https://www.darwinlevead.com" title="Darwin Levead">Darwin Levead</a>
+      </section>{{ end }}
+
+  </div>
+</footer>
