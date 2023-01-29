@@ -4,6 +4,7 @@
   <body>
     {{- partial "header.html" . -}}
     {{- block "main" . }}{{- end }}
+    
     {{- partial "footer.html" . -}}
 
     <!-- We do need jQuery to be loaded before HugoScroll script -->
@@ -15,6 +16,6 @@
     <!-- A partial to be overwritten by the user.
              Simply place a custom_body.html into
              your local /layouts/partials-directory -->
-    {{- partial "custom_body.html" . -}}
+    <!-- {{- partial "custom_body.html" . -}} -->
   </body>
 </html>
