@@ -180,7 +180,7 @@ a {
 }
 
 a:hover {
-  color: #91d2e4;
+  color: #328ba3;
 }
 
 a.btn {
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #91d2e4;
+  background: #60c4e0;
 }
 
 #header-arrow {
@@ -563,10 +563,10 @@ a.fn-item {
   color: white;
 }
 a.fn-item:hover {
-  color: #91d2e4;
+  color: #3e95ad;
 }
 a.fn-item.active {
-  color: #91d2e4;
+  color: #42b0ce;
   opacity: 1;
 }
 

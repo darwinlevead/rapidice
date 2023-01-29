@@ -8,8 +8,10 @@ Máquina de hielo silenciosa y eficiente
 Esta máquina fabricadora de hielo para encimera está equipada con el compresor más avanzado para hacerlo altamente eficiente y estable en el proceso de fabricación de hielo.
 
 ![Nice picture to make you pay me ;-)](images/banner.png)
+[QUIERO UNA YA!!](product.html)
 
 Con el ventilador de enfriamiento silencioso, el espacio libre principal de los fabricantes de la encimera de hielo portátil no puede hacer demasiado ruido durante la fabricación de hielo, le permite disfrutar de cubitos de hielo transparentes y bebidas frías en un ambiente tranquilo.
+
 
 ---
 
@@ -69,4 +71,4 @@ El hielo que ahorra agua se convierte en agua para reciclar. Cuando el hielo se 
 ¡No pierdas más tiempo esperando a que el hielo se congele!
 
 Consigue tu máquina de hielo portátil hoy y disfruta del hielo fresco en cualquier momento.
-[Quiero una!!](services)
+[Quiero una!!](product.html)
